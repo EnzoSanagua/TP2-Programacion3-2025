@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Ejercicio 5 - Área del Terreno</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Calculadora de área del terreno</h1>
+  <form id="formulario">
+    <label for="A">Lado A (altura total):</label>
+    <input type="number" id="A" step="0.01" required><br>
+
+    <label for="B">Lado B (base del rectángulo):</label>
+    <input type="number" id="B" step="0.01" required><br>
+
+    <label for="C">Lado C (altura del rectángulo):</label>
+    <input type="number" id="C" step="0.01" required><br>
+
+    <button type="button" onclick="calcularArea()">Calcular área</button>
+  </form>
+
+  <p id="resultado"></p>
+
+  <script src="script.js"></script>
+</body>
+</html>
