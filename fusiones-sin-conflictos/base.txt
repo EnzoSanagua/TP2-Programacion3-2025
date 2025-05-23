@@ -2,5 +2,13 @@ Primera linea del archivo base para fusiones sin conflicto.
 
 
 
+
+
+
+
+
+
+
+
 Agrego una segunda línea desde la Rama B sin conflicto.
 Otra linea rama B sin conflicto.
