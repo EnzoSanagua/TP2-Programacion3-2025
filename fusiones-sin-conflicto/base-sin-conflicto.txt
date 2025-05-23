@@ -1,3 +1,0 @@
-Archivo base o inicial para archivos sin conflicto.
-
-Agrego nueva linea sin conflicto para la rama A.
