@@ -1,1 +1,3 @@
 Primera linea del archivo base para fusiones sin conflicto.
+
+Nueva linea agregada desde rama uno-a.
