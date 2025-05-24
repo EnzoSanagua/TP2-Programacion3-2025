@@ -1,1 +1,1 @@
-Cambio desde conflicto A y cambio desde conflicto B juntos.
+Cambio desde conflicto A y cambio desde conflicto B juntos. Pero generando el conflicto A que en un principio no se generó.
