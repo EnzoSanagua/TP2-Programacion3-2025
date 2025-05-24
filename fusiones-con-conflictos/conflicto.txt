@@ -1,1 +1,1 @@
-Esta es una linea para generar conflicto.
+Esta es la linea modificada para generar conflicto desde la rama conflicto-a.
