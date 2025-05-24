@@ -1,1 +1,1 @@
-Esta es una linea para el archivo original de conflicto base.
+Esta es una linea para generar conflicto.
