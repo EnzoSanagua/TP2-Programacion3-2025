@@ -1,1 +1,1 @@
-Cambio desde conflicto A y cambio desde conflicto B juntos. Pero generando el conflicto A que en un principio no se generó.
+Esta linea debería generar conflicto desde la rama C
