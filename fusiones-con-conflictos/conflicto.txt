@@ -1,1 +1,1 @@
-Esta es la línea modificada desde la rama B para generar conflicto.
+Este es el cambio de la rama B que genera conflicto
