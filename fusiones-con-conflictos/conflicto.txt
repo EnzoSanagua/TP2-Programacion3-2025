@@ -1,1 +1,1 @@
-Este es el cambio de la rama A que genera conflicto
+Cambio desde conflicto A y cambio desde conflicto B juntos.
