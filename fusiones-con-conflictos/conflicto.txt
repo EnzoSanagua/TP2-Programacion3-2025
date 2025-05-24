@@ -1,1 +1,1 @@
-Esta es una linea para el archivo original de conflicto base.
+Esta es la línea modificada desde la rama B para generar conflicto.
